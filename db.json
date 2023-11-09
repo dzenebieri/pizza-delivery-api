@@ -1,0 +1,265 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "unitPrice": 12,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-1.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "basil"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 2,
+      "name": "Greek",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-2.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "spinach",
+        "feta",
+        "olives",
+        "pepperoncini"
+      ],
+      "soldOut": true
+    },
+    {
+      "id": 3,
+      "name": "Romana",
+      "unitPrice": 15,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-3.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "prosciutto"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 4,
+      "name": "Napoli",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-4.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "fresh tomato",
+        "basil"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 5,
+      "name": "Pepperoni",
+      "unitPrice": 14,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-5.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "pepperoni"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 6,
+      "name": "Abruzzese",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-6.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "prosciutto",
+        "arugula"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 7,
+      "name": "Pesto Chicken",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-7.jpg",
+      "ingredients": [
+        "pesto",
+        "mozzarella",
+        "chicken",
+        "sun-dried tomatoes",
+        "spinach"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 8,
+      "name": "Roasted Veggie",
+      "unitPrice": 15,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-8.jpg",
+      "ingredients": [
+        "marinara",
+        "mozzarella",
+        "zucchini",
+        "eggplant",
+        "peppers",
+        "onions"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 9,
+      "name": "Siciliana",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-9.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "anchovies",
+        "olives",
+        "capers"
+      ],
+      "soldOut": true
+    },
+    {
+      "id": 10,
+      "name": "Hawaiian",
+      "unitPrice": 15,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-10.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "pineapple",
+        "ham"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 11,
+      "name": "Diavola",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-11.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "spicy salami",
+        "chili flakes"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 12,
+      "name": "Vegetale",
+      "unitPrice": 13,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-12.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "bell peppers",
+        "onions",
+        "mushrooms"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 13,
+      "name": "Spinach and Mushroom",
+      "unitPrice": 15,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-13.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "spinach",
+        "mushrooms"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 14,
+      "name": "Tofu and Mushroom",
+      "unitPrice": 15,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-14.jpg",
+      "ingredients": [
+        "marinara",
+        "mozzarella",
+        "tofu",
+        "mushrooms",
+        "bell peppers"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 15,
+      "name": "Prosciutto e Rucola",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-15.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "prosciutto",
+        "arugula"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 16,
+      "name": "Mediterranean",
+      "unitPrice": 16,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-16.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "sun-dried tomatoes",
+        "olives",
+        "artichoke"
+      ],
+      "soldOut": false
+    },
+    {
+      "id": 17,
+      "name": "Capricciosa",
+      "unitPrice": 14,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-17.jpg",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "ham",
+        "mushrooms",
+        "artichoke"
+      ],
+      "soldOut": true
+    },
+    {
+      "id": 18,
+      "name": "Eggplant Parmesan",
+      "unitPrice": 15,
+      "imageUrl": "https://raw.githubusercontent.com/dzenebieri/pizza-delivery-api/main/pizza-imgs/pizza-18.jpg",
+      "ingredients": [
+        "marinara",
+        "mozzarella",
+        "eggplant",
+        "parmesan"
+      ],
+      "soldOut": false
+    }
+  ],
+  "order": [
+    {
+      "customer": "dzenebieri",
+      "status": "preparing",
+      "priority": true,
+      "cart": [
+        {
+          "pizzaId": 1,
+          "name": "Margherita",
+          "quantity": 1,
+          "unitPrice": 12,
+          "totalPrice": 12
+        }
+      ],
+      "id": "ORID",
+      "estimatedDelivery": "2023-11-08T22:42:42.592Z",
+      "orderPrice": 12,
+      "priorityPrice": 2
+    }
+  ]
+}
